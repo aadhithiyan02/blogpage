@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/aadhithiyan02/myblog.git/static/css/main.e0cde66f.css",
+    "main.js": "/aadhithiyan02/myblog.git/static/js/main.cd5b74fd.js",
+    "static/js/787.32d91862.chunk.js": "/aadhithiyan02/myblog.git/static/js/787.32d91862.chunk.js",
+    "index.html": "/aadhithiyan02/myblog.git/index.html",
+    "main.e0cde66f.css.map": "/aadhithiyan02/myblog.git/static/css/main.e0cde66f.css.map",
+    "main.cd5b74fd.js.map": "/aadhithiyan02/myblog.git/static/js/main.cd5b74fd.js.map",
+    "787.32d91862.chunk.js.map": "/aadhithiyan02/myblog.git/static/js/787.32d91862.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e0cde66f.css",
+    "static/js/main.cd5b74fd.js"
+  ]
+}
